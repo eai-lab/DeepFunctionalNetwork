@@ -358,3 +358,16 @@ dfn_file_path /.../.../DeepFunctionalNetwork/obstacle/dfn_1/dfn_1
 
 * The DFN graph file is saved as 'obstacle_dfn_1_0.png', which is shown in the below.
 ![](/image/obstacle_dfn_1_0.png)
+
+&nbsp;
+## Citation (BibTeX)
+**Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems**
+```
+@inproceedings{lee2021deep,
+  title={Deep Functional Network (DFN) Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems},
+  author={Lee, Seulki and Nirjon, Shahriar},
+  booktitle={Proceedings of the 20th International Conference on Information Processing in Sensor Networks (co-located with CPS-IoT Week 2021)},
+  pages={191--206},
+  year={2021}
+}
+```
