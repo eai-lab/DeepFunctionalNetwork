@@ -361,7 +361,7 @@ dfn_file_path /.../.../DeepFunctionalNetwork/obstacle/dfn_1/dfn_1
 
 &nbsp;
 ## Citation (BibTeX)
-**Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems**
+**[Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems](https://dl.acm.org/doi/abs/10.1145/3412382.3458266)**
 ```
 @inproceedings{lee2021deep,
   title={Deep Functional Network (DFN) Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems},
